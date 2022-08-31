@@ -1,6 +1,8 @@
 ---
 title: "Test 2"
-format: revealjs
+format:
+    revealjs:
+        footer: "[Slides Index](https://filebb.github.io/test_slides)"
 ---
 
 # Part 1
