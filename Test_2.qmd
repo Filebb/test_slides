@@ -1,5 +1,5 @@
 ---
-title: "Test 1"
+title: "Test 2"
 format: revealjs
 ---
 
@@ -7,7 +7,15 @@ format: revealjs
 
 ## Slide 1
 
-some text 1
+some R code!
+
+```{r echo=TRUE}
+a <- 2
+b <- 3
+
+a + b
+a * b
+```
 
 ## Slide 2
 
