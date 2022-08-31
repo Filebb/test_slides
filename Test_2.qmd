@@ -2,7 +2,7 @@
 title: "Test 2"
 format:
     revealjs:
-        footer: "[Slides Index](https://filebb.github.io/test_slides)"
+        footer: "Test 2 [Slides Index](https://filebb.github.io/test_slides)"
 ---
 
 # Part 1
